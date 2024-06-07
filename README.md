@@ -1,1 +1,1 @@
-# fNIRSTformer
+# LSTformer
